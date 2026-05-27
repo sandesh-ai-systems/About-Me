@@ -31,7 +31,7 @@ I focus on solving **real-world problems**, improving **AI reliability**, and re
 Python | SQL
 
 **AI / ML:**
-Machine Learning | NLP | Deep Learning
+Agentic AI | GenAI | Machine Learning | NLP | Deep Learning
 
 **GenAI & LLMs:**
 LangChain | OpenAI | RAG | Prompt Engineering
@@ -41,30 +41,6 @@ FAISS | Pinecone | FastAPI | Streamlit
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 End-to-End Medical Chatbot (RAG + LLM)
-
-* Built a **context-aware chatbot** using RAG pipeline
-* Integrated **vector search + LLM reasoning**
-* Focused on **reducing hallucinations & improving answer grounding**
-
----
-
-### 🤖 Agentic AI Workflow System
-
-* Designed **multi-agent system** for task automation
-* Implemented **orchestration & decision-making logic**
-* Explored frameworks like CrewAI / LangGraph / Autogen
-
----
-
-### 📊 ML Project
-
-* Example: Customer churn prediction / NLP classification
-* End-to-end pipeline: data → model → evaluation → deployment
-
----
 
 ## 📈 What Makes Me Different
 
