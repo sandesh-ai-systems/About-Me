@@ -19,7 +19,7 @@ I focus on solving **real-world problems**, improving **AI reliability**, and re
 
 ## 🔭 What I'm Currently Working On
 
-* Designing **multi-agent AI systems** for automation
+* Designing **multi-agent AI systems** for automation & Decision Making
 * Building **end-to-end AI applications** with deployment
 * Enhancing **RAG evaluation frameworks** 
 
@@ -33,14 +33,10 @@ Python | SQL
 **AI / ML:**
 Agentic AI | GenAI | Machine Learning | NLP | Deep Learning
 
-**GenAI & LLMs:**
-LangChain | OpenAI | RAG | Prompt Engineering
-
 **Tools & Frameworks:**
-FAISS | Pinecone | FastAPI | Streamlit
+Langchain, LangGraph, CrewAI| Pinecone, Qdrant | FastAPI | AWS , GCP Cloud
 
 ---
-
 
 ## 📈 What Makes Me Different
 
